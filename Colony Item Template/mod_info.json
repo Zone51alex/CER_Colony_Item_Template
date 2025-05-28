@@ -1,0 +1,16 @@
+{
+    "id":"tem_colonyitem",
+    "name":"Colony Item Template",
+    "author":"Zone51",	
+    "version":
+    {
+        "major":0,
+        "minor":1,
+        "patch":0,
+    },
+    "description":"just a Template for making new colony items",
+    "gameVersion": "0.98",
+
+	"modPlugin": "data.scripts.tem_ModPlugin",
+	"jars":["jars/Templatecolony.jar"],
+}
